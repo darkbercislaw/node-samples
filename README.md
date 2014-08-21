@@ -1,4 +1,4 @@
 node-samples
 ============
 
-Examples if node.js usage
+Examples of node.js usage
